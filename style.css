@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.birinci
+{
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+    width: 100%;
+    height: 650px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    margin: auto;
+    padding: auto;
+    background-size: cover;
+    background-position: left;
+    
+}
+
+.birincisozler{
+text-align: center !important;
+padding: 150px;
+
+
+}
+
+.birincisozler h1{
+    font-size: 90px;
+    font-family: !important;
+}
+
+.birincisozler p{
+    font-size: 20px;
+    font-family: Arial black;
+    font-style: oblique;
+}
+
+.birincisozler input{
+    margin: 50px;
+    width: 190px;
+    height: 70px;
+    background: #1d809f;
+    border-color: #1d809f;
+    color: white;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+.icon{
+    text-align: end;
+    color: white;
+    padding: 20px 20px;
+}
+
+.ikinci{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    padding: 100px;
+}
+
+.ikinci p{
+    font-size: 20px;
+}
+
+.ikinci input{
+    margin: 40px;
+    width: 190px;
+    height: 70px;
+    background: #343a40;
+    border-color: #343a40;
+    color: white;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.ucuncu{
+    background: #1d809f;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    padding: 100px;
+}
+
+.ucuncu .soz1 p{
+    color: gold;
+    font-family: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ucuncu .soz1 h1{
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ucuncu .icon{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    font-size: 100px;
+    
+}
+
+.ucuncu .icon1{
+    padding: 0px 80px;
+    
+}
+.ucuncu .icon2{
+    padding: 0px 80px;
+    
+    
+}
+.ucuncu .icon3{
+    padding: 0px 80px;
+    
+    
+}
+.ucuncu .icon4{
+    padding: 0px 80px;
+   
+    
+}
+.dorduncu{
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-size: cover;
+    text-align: center;
+    padding: 200px;
+}
+
+.dorduncu h1{
+    font-size: 60px;
+}
+
+.dorduncu input{
+   margin: 40px;
+   width: 190px;
+   height: 70px;
+   background: #1d809f;
+   border: #1d809f;
+   border-radius: 5px;
+   color: white;
+   font-size: 20px;
+}
+.besinci{
+    width: 100%;
+    height: 1100px;
+    box-sizing: border-box;
+    padding: 100px;
+   
+   
+}
+
+.besinci .besincisoz{
+    text-align: center;
+    padding: 50px 0;
+}
+ .besinci .besincisoz p{
+     color: orange;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ .besinci .besincisoz h1{
+     font-size: 50px;
+ }
+
+ .besinci .besinciphoto{
+     display: flex;
+     margin: auto;
+     padding: auto;
+ }
+
+ 
+img{
+    width: 50%;
+    height: 350px;
+}
+
+.altinci{
+    background: #1d809f;
+    width: 100%;
+    height: 330px;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.altinci h1{
+    text-align: center;
+    color: white;
+}
+
+.altinci input{
+    margin: 40px;
+    width: 190px;
+    height: 70px;
+    background: wheat;
+    border:wheat;
+    border-radius: 5px;
+    color: gray;
+    text-align: center;
+    
+}
